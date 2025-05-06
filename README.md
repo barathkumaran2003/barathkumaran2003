@@ -66,5 +66,4 @@
 
 <img src="https://raw.githubusercontent.com/barathkumaran2003/barathkumaran2003/output/snake.svg" alt="Snake animation" />
 
-
 ###
